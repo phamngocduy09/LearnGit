@@ -1,2 +1,6 @@
 Update nha
+<<<<<<< HEAD
 Update nè
+=======
+Update nà
+>>>>>>> 813b567ff657b8998be6adb619ae21205d4a6b4e
